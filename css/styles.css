@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  color: #11999E;
+  color: #1d7a7e;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #b4dada 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -92,6 +92,11 @@ a:hover {
 
 }
 
+.about {
+  margin: auto;
+  padding: 100px;
+}
+
 
 .center-div {
   display: flex;
@@ -132,9 +137,6 @@ li {
   bottom: 300px;
 }
 
-
-
-
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -160,4 +162,10 @@ li {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+
+.josh-profile-img {
+  width: 20%;
+  height: auto;
 }
